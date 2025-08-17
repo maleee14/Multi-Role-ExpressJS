@@ -1,0 +1,15 @@
+#ENV dan credentials
+.env
+connection.js
+
+# Node modules
+node_modules/
+
+# Log File
+*.log
+
+# VSCode setting
+.vscode/
+
+# File hasil testing
+coverage/
